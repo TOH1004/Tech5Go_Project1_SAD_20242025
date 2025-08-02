@@ -68,10 +68,9 @@ In this phase, we focused on TO-BE system design by creating:
 
 - Refined problem & solution statements  
 - Logical and physical DFDs (Context Diagram, Diagram 0, Child Diagrams)  
-- CRUD Matrix, Event Response Table, and System Architecture  
+- CRUD Matrix 
 - Structure charts and detailed process specifications  
-- Wireframes and UI/UX design  
-- A non-functional prototype demo  
+- Wireframes and UI/UX design    
 
 📄 **Deliverable:** System Design Report
 
