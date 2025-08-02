@@ -45,7 +45,7 @@ We developed a comprehensive proposal outlining:
 - Work Breakdown Structure (WBS), PERT chart, and Gantt chart  
 
 📄 **Deliverable:** Project Proposal Document
-
+📌Explore more in our [Phase 1](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 ---
 
 ### 🔍 Phase 2: Information Gathering & Requirements
@@ -59,7 +59,7 @@ We conducted surveys, interviews, and observations to analyze:
 - AS-IS DFDs: Context Diagram, Diagram 0, Child Diagrams  
 
 📄 **Deliverable:** System Requirements Document (SRD)
-
+📌Explore more in our [Phase 2](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 ---
 
 ### 🧩 Phase 3: Analysis & System Design
@@ -73,7 +73,7 @@ In this phase, we focused on TO-BE system design by creating:
 - Wireframes and UI/UX design    
 
 📄 **Deliverable:** System Design Report
-
+📌Explore more in our [Phase 3](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 ---
 
 ## 🛠️ Tools
