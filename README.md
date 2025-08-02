@@ -1,73 +1,23 @@
 # Tech5Go_Project1_SAD_20242025
-# Tech5Go_Project1_SAD_20242025
 
 ## 📌 Project Title: Car Rental Management System
+Our group, Tech5Go has developed a Car Rental Application tailored for the Universiti Teknologi Malaysia (UTM) community. This project aims to simplify the car rental process within campus by providing an intuitive and user-friendly platform for students and staff. The application allows users to browse available vehicles, make reservations, and manage their bookings efficiently. Through collaborative teamwork, we integrated key features such as real-time availability, user authentication, and booking history, ensuring a seamless rental experience. Tech5Go is committed to solving everyday mobility issues with practical tech solutions.
 
 ## 🧑‍💻 Group Members:
-| Name            | Matric No. | Role             |
-|-----------------|------------|------------------|
-| Toh Shee Thong  | XXXXXXXXX  | Team Leader      |
-| Angela          | XXXXXXXX   | UI/UX Designer   |
-| Gwee Zi Ni      | XXXXXXXX   | Developer        |
-| Teoh Xin Yee    | XXXXXXXX   | Documentation    |
-| Lee Jia Yee     | XXXXXXXX   | Project Planner  |
+| Name              | Matric No. | Role             |
+|-------------------|------------|------------------|
+| Toh Shee Thong    | A24CS0309  | Team Leader      |
+| Angela Ngu Xin Yi | A24CS0226  | UI/UX Designer   |
+| Gwee Zi Ni        | A24CS0078  | Developer        |
+| Teoh Xin Yee      | A24CS0307  | Documentation    |
+| Lee Jia Yee       | A24CS0260  | Project Planner  |
 
-## 📖 1.0 Introduction
-The Car Rental Management System is a web-based application developed to digitalize and streamline the vehicle rental process at Universiti Teknologi Malaysia (UTM). The system aims to improve vehicle booking, availability tracking, and management for both customers and administrators.
+## 📖 Phase 1: Project Proposal and Planning
+In phase 1, our group is required to prepare a comprehensive project proposal that outlines the background, purpose, and planning of the system to be developed. This includes conducting an organizational background study, identifying the system scope, and highlighting the benefits the system will bring. The proposal must also include a clear problem statement, proposed solutions, objectives, and a detailed feasibility study covering technical, operational, and economic aspects, including a cost-benefit analysis (CBA). Additionally, we need to create a project plan with a work breakdown structure (WBS), PERT chart, and Gantt chart, along with a clear timeline, team roles, and deadlines.
 
-## 🔍 2.0 Background Study
-UTM currently lacks a centralized system to manage vehicle rentals, resulting in manual booking processes that are inefficient and error-prone. Our system will cover key areas including user registration, vehicle listing, booking, payment, and reporting.
+## 🔍 Phase 2: Information System Gathering and Requirements
+In Phase 2, the focus is on analyzing the current system (AS-IS), identifying user needs, and defining system requirements for the new system (TO-BE). Information gathering is conducted using interactive and unobtrusive methods such as surveys, interviews, or observations to understand the current business processes and system limitations. The findings are analyzed to identify functional and non-functional requirements of the existing system. A detailed requirement analysis is then performed, supported by scenario descriptions, workflow diagrams, and AS-IS logical DFDs including Context Diagram, Diagram 0, and Child Diagrams if applicable. This phase ensures a clear understanding of stakeholder expectations and lays the foundation for designing the improved TO-BE system. The deliverable is a comprehensive System Requirement Document capturing the gathered insights, current system workflow, and detailed requirement specifications.
 
-## 🚨 3.0 Problem Statement
-The absence of an integrated digital platform for car rentals has led to slow processing, booking overlaps, and difficulty in tracking vehicle usage history and availability.
-
-## 💡 4.0 Proposed Solution
-We propose a centralized Car Rental Management System to automate and manage rental services. A feasibility study shows that the solution is:
-- **Technically feasible** using web technologies such as HTML/CSS, JavaScript, PHP, and MySQL.
-- **Operationally feasible** for both users and staff.
-- **Economically feasible**, as most tools are open-source.
-Cost-Benefit Analysis (CBA) indicates the investment in system development brings long-term operational efficiency.
-
-## 🎯 5.0 Objectives
-- To develop a user-friendly car rental platform for students and staff.
-- To enable easy vehicle booking and reduce manual paperwork.
-- To provide admins with tools for managing car inventory and tracking usage.
-
-## 📌 6.0 Scope of the Project
-### Included:
-- User registration/login
-- Car listings with availability
-- Booking and confirmation
-- Admin dashboard
-
-### Not Included:
-- Real-time GPS tracking
-- Payment gateway integration in Phase 1
-
-## 📆 7.0 Project Planning
-
-### 7.1 Human Resource
-Team roles have been distributed among five members based on their expertise.
-
-### 7.2 Work Breakdown Structure (WBS)
-*(Attach your WBS image or markdown chart here)*
-
-### 7.3 PERT Chart
-*(Attach or describe your PERT chart here)*
-
-### 7.4 Gantt Chart
-*(Attach your Gantt chart or insert a markdown table of tasks by week)*
-
-## ✅ 8.0 Benefits and Summary
-This system will streamline the car rental process, minimize booking conflicts, and reduce admin workload. It contributes to digital transformation efforts within UTM and provides a practical, cost-effective solution for daily operational needs.
-
----
-
-## 🔗 GitHub Repository Info
-- **GitHub URL:** [https://github.com/Tech5Go/Tech5Go_Project1_SAD_20242025](https://github.com/Tech5Go/Tech5Go_Project1_SAD_20242025)
-- **Kanban Board:** Integrated via GitHub Projects tab
-- **Version Control:** Feature branches, pull requests, and commit history are tracked
-
-## 📷 Repository Snapshot
-*(Upload and attach a screenshot of your repository’s main page or Kanban board here)*
+## 🚨 Phase 3: Analysis and Design
+Phase 3 focuses on analyzing and designing the new system based on the findings from Phase 2. It begins by refining the project overview, problem statement, proposed solutions, and the current (AS-IS) business process. The system analysis includes developing logical models (TO-BE) with detailed DFDs—Context Diagram, Diagram 0, and Child Diagrams—along with identifying functional and non-functional requirements and process specifications. System specifications define what the system will do, while the system design outlines how it will be implemented, including physical DFDs, partitioning, CRUD matrix, event response table, structure chart, and system architecture. This phase also includes designing the user interface through system wireframes (input/output design) and preparing a non-working prototype demo. All findings and designs are compiled into the final system design report.
 
