@@ -43,9 +43,9 @@ We developed a comprehensive proposal outlining:
 - Feasibility study (technical, operational, economic)  
 - Cost-Benefit Analysis (CBA)  
 - Work Breakdown Structure (WBS), PERT chart, and Gantt chart  
+📌Explore more in our [Phase 1](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 
 📄 **Deliverable:** Project Proposal Document
-📌Explore more in our [Phase 1](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 ---
 
 ### 🔍 Phase 2: Information Gathering & Requirements
@@ -57,9 +57,9 @@ We conducted surveys, interviews, and observations to analyze:
 - Functional & non-functional requirements  
 - Scenario descriptions and workflow diagrams  
 - AS-IS DFDs: Context Diagram, Diagram 0, Child Diagrams  
+📌Explore more in our [Phase 2](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 
 📄 **Deliverable:** System Requirements Document (SRD)
-📌Explore more in our [Phase 2](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 ---
 
 ### 🧩 Phase 3: Analysis & System Design
@@ -71,9 +71,9 @@ In this phase, we focused on TO-BE system design by creating:
 - CRUD Matrix 
 - Structure charts and detailed process specifications  
 - Wireframes and UI/UX design    
+📌Explore more in our [Phase 3](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 
 📄 **Deliverable:** System Design Report
-📌Explore more in our [Phase 3](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 ---
 
 ## 🛠️ Tools
