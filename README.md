@@ -44,7 +44,7 @@ We developed a comprehensive proposal outlining:
 - Cost-Benefit Analysis (CBA)  
 - Work Breakdown Structure (WBS), PERT chart, and Gantt chart
   
-📌Explore more in our [Phase 1](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
+📌Explore more in our [Phase 1](https://github.com/TOH1004/Tech5Go_Project1_SAD_20242025/blob/main/Tech5Go%20project%20Phase%201.pdf) !
 
 📄 **Deliverable:** Project Proposal Document
 ---
