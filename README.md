@@ -42,7 +42,8 @@ We developed a comprehensive proposal outlining:
 - System objectives & benefits  
 - Feasibility study (technical, operational, economic)  
 - Cost-Benefit Analysis (CBA)  
-- Work Breakdown Structure (WBS), PERT chart, and Gantt chart  
+- Work Breakdown Structure (WBS), PERT chart, and Gantt chart
+  
 📌Explore more in our [Phase 1](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 
 📄 **Deliverable:** Project Proposal Document
@@ -56,8 +57,9 @@ We conducted surveys, interviews, and observations to analyze:
 - User needs and system limitations  
 - Functional & non-functional requirements  
 - Scenario descriptions and workflow diagrams  
-- AS-IS DFDs: Context Diagram, Diagram 0, Child Diagrams  
-📌Explore more in our [Phase 2](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
+- AS-IS DFDs: Context Diagram, Diagram 0, Child Diagrams
+   
+📌Explore more in our [Phase 2](https://github.com/TOH1004/Tech5Go_Project1_SAD_20242025/blob/main/Tech5Go%20project%20Phase%202.pdf) !
 
 📄 **Deliverable:** System Requirements Document (SRD)
 ---
@@ -70,7 +72,8 @@ In this phase, we focused on TO-BE system design by creating:
 - Logical and physical DFDs (Context Diagram, Diagram 0, Child Diagrams)  
 - CRUD Matrix 
 - Structure charts and detailed process specifications  
-- Wireframes and UI/UX design    
+- Wireframes and UI/UX design
+  
 📌Explore more in our [Phase 3](https://github.com/TOH1004/EATTT/blob/0f377700fe16fb4e1ce6834d67e049b876e74f24/HCI%20Project%20Part%201%20-%20Proposal.pdf) !
 
 📄 **Deliverable:** System Design Report
