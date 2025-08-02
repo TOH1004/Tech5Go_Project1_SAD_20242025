@@ -46,7 +46,6 @@ We developed a comprehensive proposal outlining:
   
 📌Explore more in our [Phase 1](https://github.com/TOH1004/Tech5Go_Project1_SAD_20242025/blob/main/Tech5Go%20project%20Phase%201.pdf) !
 
-📄 **Deliverable:** Project Proposal Document
 ---
 
 ### 🔍 Phase 2: Information Gathering & Requirements
@@ -61,7 +60,6 @@ We conducted surveys, interviews, and observations to analyze:
    
 📌Explore more in our [Phase 2](https://github.com/TOH1004/Tech5Go_Project1_SAD_20242025/blob/main/Tech5Go%20project%20Phase%202.pdf) !
 
-📄 **Deliverable:** System Requirements Document (SRD)
 ---
 
 ### 🧩 Phase 3: Analysis & System Design
@@ -76,7 +74,6 @@ In this phase, we focused on TO-BE system design by creating:
   
 📌Explore more in our [Phase 3](https://github.com/TOH1004/Tech5Go_Project1_SAD_20242025/blob/main/Tech5Go%20project%20Phase%203.pdf) !
 
-📄 **Deliverable:** System Design Report
 ---
 
 ## 🛠️ Tools
