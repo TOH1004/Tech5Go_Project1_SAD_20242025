@@ -1,23 +1,91 @@
-# Tech5Go_Project1_SAD_20242025
+# 🚗 Tech5Go - Car Rental Management System
 
-## 📌 Project Title: Car Rental Management System
-Our group, Tech5Go has developed a Car Rental Application tailored for the Universiti Teknologi Malaysia (UTM) community. This project aims to simplify the car rental process within campus by providing an intuitive and user-friendly platform for students and staff. The application allows users to browse available vehicles, make reservations, and manage their bookings efficiently. Through collaborative teamwork, we integrated key features such as real-time availability, user authentication, and booking history, ensuring a seamless rental experience. Tech5Go is committed to solving everyday mobility issues with practical tech solutions.
+**Semester:** 2024/2025  
+**Course:** System Analysis and Design (SAD)  
+**University:** Universiti Teknologi Malaysia (UTM)
 
-## 🧑‍💻 Group Members:
-| Name              | Matric No. | Role             |
-|-------------------|------------|------------------|
-| Toh Shee Thong    | A24CS0309  | Team Leader      |
-| Angela Ngu Xin Yi | A24CS0226  | UI/UX Designer   |
-| Gwee Zi Ni        | A24CS0078  | Developer        |
-| Teoh Xin Yee      | A24CS0307  | Documentation    |
-| Lee Jia Yee       | A24CS0260  | Project Planner  |
+---
 
-## 📖 Phase 1: Project Proposal and Planning
-In phase 1, our group is required to prepare a comprehensive project proposal that outlines the background, purpose, and planning of the system to be developed. This includes conducting an organizational background study, identifying the system scope, and highlighting the benefits the system will bring. The proposal must also include a clear problem statement, proposed solutions, objectives, and a detailed feasibility study covering technical, operational, and economic aspects, including a cost-benefit analysis (CBA). Additionally, we need to create a project plan with a work breakdown structure (WBS), PERT chart, and Gantt chart, along with a clear timeline, team roles, and deadlines.
+## 📌 Project Overview
 
-## 🔍 Phase 2: Information System Gathering and Requirements
-In Phase 2, the focus is on analyzing the current system (AS-IS), identifying user needs, and defining system requirements for the new system (TO-BE). Information gathering is conducted using interactive and unobtrusive methods such as surveys, interviews, or observations to understand the current business processes and system limitations. The findings are analyzed to identify functional and non-functional requirements of the existing system. A detailed requirement analysis is then performed, supported by scenario descriptions, workflow diagrams, and AS-IS logical DFDs including Context Diagram, Diagram 0, and Child Diagrams if applicable. This phase ensures a clear understanding of stakeholder expectations and lays the foundation for designing the improved TO-BE system. The deliverable is a comprehensive System Requirement Document capturing the gathered insights, current system workflow, and detailed requirement specifications.
+**Tech5Go** is a team of five passionate Computer Science students dedicated to solving everyday transportation challenges at UTM. Our project is a **Car Rental Management System**, designed to streamline vehicle booking and management for students and staff on campus. The system provides an intuitive interface to:
 
-## 🚨 Phase 3: Analysis and Design
-Phase 3 focuses on analyzing and designing the new system based on the findings from Phase 2. It begins by refining the project overview, problem statement, proposed solutions, and the current (AS-IS) business process. The system analysis includes developing logical models (TO-BE) with detailed DFDs—Context Diagram, Diagram 0, and Child Diagrams—along with identifying functional and non-functional requirements and process specifications. System specifications define what the system will do, while the system design outlines how it will be implemented, including physical DFDs, partitioning, CRUD matrix, event response table, structure chart, and system architecture. This phase also includes designing the user interface through system wireframes (input/output design) and preparing a non-working prototype demo. All findings and designs are compiled into the final system design report.
+- Browse available cars in real-time  
+- Make and manage reservations  
+- Track rental history  
+- Authenticate users securely  
+
+Through teamwork and agile planning, we built a system that enhances mobility and efficiency in car-sharing services.
+
+---
+
+## 👥 Group Members
+
+| Name               | Matric No. | Role             |
+|--------------------|------------|------------------|
+| Toh Shee Thong     | A24CS0309  | Team Leader      |
+| Angela Ngu Xin Yi  | A24CS0226  | UI/UX Designer   |
+| Gwee Zi Ni         | A24CS0078  | Developer        |
+| Teoh Xin Yee       | A24CS0307  | Documentation    |
+| Lee Jia Yee        | A24CS0260  | Project Planner  |
+
+---
+
+## 🧭 Project Phases
+
+### 📖 Phase 1: Proposal & Planning
+
+We developed a comprehensive proposal outlining:
+
+- Organizational background  
+- Problem statement & proposed solution  
+- System objectives & benefits  
+- Feasibility study (technical, operational, economic)  
+- Cost-Benefit Analysis (CBA)  
+- Work Breakdown Structure (WBS), PERT chart, and Gantt chart  
+
+📄 **Deliverable:** Project Proposal Document
+
+---
+
+### 🔍 Phase 2: Information Gathering & Requirements
+
+We conducted surveys, interviews, and observations to analyze:
+
+- Current AS-IS system workflows  
+- User needs and system limitations  
+- Functional & non-functional requirements  
+- Scenario descriptions and workflow diagrams  
+- AS-IS DFDs: Context Diagram, Diagram 0, Child Diagrams  
+
+📄 **Deliverable:** System Requirements Document (SRD)
+
+---
+
+### 🧩 Phase 3: Analysis & System Design
+
+In this phase, we focused on TO-BE system design by creating:
+
+- Refined problem & solution statements  
+- Logical and physical DFDs (Context Diagram, Diagram 0, Child Diagrams)  
+- CRUD Matrix, Event Response Table, and System Architecture  
+- Structure charts and detailed process specifications  
+- Wireframes and UI/UX design  
+- A non-functional prototype demo  
+
+📄 **Deliverable:** System Design Report
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Backend:** PHP / Node.js *(based on implementation)*  
+- **Database:** MySQL  
+- **Tools:** Figma (UI Design), Microsoft Project (Planning), Draw.io (DFDs), GitHub (Version Control)
+
+---
+
+## 📂 Repository Structure
+
 
