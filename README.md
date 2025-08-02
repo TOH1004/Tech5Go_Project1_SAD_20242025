@@ -1,2 +1,2 @@
 # Tech5Go_Project1_SAD_20242025
-Hi
+In Task 1 of Phase 1, our group is required to prepare a comprehensive project proposal that outlines the background, purpose, and planning of the system to be developed. This includes conducting an organizational background study, identifying the system scope, and highlighting the benefits the system will bring. The proposal must also include a clear problem statement, proposed solutions, objectives, and a detailed feasibility study covering technical, operational, and economic aspects, including a cost-benefit analysis (CBA). Additionally, we need to create a project plan with a work breakdown structure (WBS), PERT chart, and Gantt chart, along with a clear timeline, team roles, and deadlines. 
