@@ -77,15 +77,7 @@ In this phase, we focused on TO-BE system design by creating:
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** PHP / Node.js *(based on implementation)*  
-- **Database:** MySQL  
-- **Tools:** Figma (UI Design), Microsoft Project (Planning), Draw.io (DFDs), GitHub (Version Control)
-
----
-
-## 📂 Repository Structure
-
-
+## 🛠️ Tools
+ - Figma (UI Design)
+ - Draw.io (DFDs)
+ - GitHub (Version Control)
